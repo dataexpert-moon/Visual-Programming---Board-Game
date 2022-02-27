@@ -24,5 +24,5 @@
 
 
 # :mailbox: Contacts
-![Tistory](https://img.shields.io/badge/blogger-FF5722.svg?&style=for-the-badge&logo=Blogger&logoColor=white&link=https://data-flower.tistory.com/)(https://data-flower.tistory.com/)
+![tistory](https://img.shields.io/badge/Tech%20blog-tistory-brightgreen?style=for-the-badge&link=https://data-flower.tistory.com)
 
