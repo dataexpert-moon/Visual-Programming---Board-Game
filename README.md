@@ -24,5 +24,5 @@
 
 
 # :mailbox: Contacts
-![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-brightgreen?style=for-the-badge&logo=github&link=https://data-flower.tistory.com/)](https://data-flower.tistory.com/)
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-brightgreen?style=for-the-badge&logo=github&link=https://data-flower.tistory.com/)](https://data-flower.tistory.com/)
 
