@@ -1,4 +1,4 @@
-# dataexpert-moon👋
+# dataexpert-moon:full_moon:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdataexpert-moon&count_bg=%23FFBA87&title_bg=%23F7682D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
@@ -8,7 +8,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bill127)](https://solved.ac/bill127/)
 
 
-# Skills
+# Skills:clap:
 ### Platforms & Languages
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=R&logoColor=white)
@@ -24,5 +24,5 @@
 
 
 # :mailbox: Contacts
-![Tistory](https://img.shields.io/badge/blogger-FF5722.svg?&style=for-the-badge&logo=Blogger&logoColor=white&link=https://data-flower.tistory.com/)
+![Tistory](https://img.shields.io/badge/blogger-FF5722.svg?&style=for-the-badge&logo=Blogger&logoColor=white&link=https://data-flower.tistory.com/)(https://data-flower.tistory.com/)
 
