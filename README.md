@@ -24,5 +24,6 @@
 
 
 # :mailbox: Contacts
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-brightgreen?style=for-the-badge&logo=github&link=https://data-flower.tistory.com/)](https://data-flower.tistory.com/)
-
+[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-Tistory-important?style=for-the-badge&logo=github&link=https://data-flower.tistory.com/)](https://data-flower.tistory.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sj88951274@gmail.com)](mailto:sj88951274@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-03C75A.svg?&style=for-the-badge&logo=Naver&logoColor=white&link=mailto:bill127@naver.com)](mailto:bill127@naver.com)
